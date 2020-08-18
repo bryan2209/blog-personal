@@ -1,5 +1,5 @@
 ---
-title: Sample Post
+title: ESTUDIAR EN CUARENTENA
 categories: [writing]
 comments: true
 ---
