@@ -16,11 +16,11 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
+  name: BryanZamora
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
-  aboutme: true # comment this out if you don't need the 'about' page.
+  job: bzamorayala@hotmail.com
+  conoceme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
