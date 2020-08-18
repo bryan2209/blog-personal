@@ -20,7 +20,7 @@ user:
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: bzamorayala@hotmail.com
-  conoceme: true # comment this out if you don't need the 'about' page.
+  about: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
